@@ -64,6 +64,8 @@ familiarity-research-dataset/
 │   │   ├── qualtrics_integration.js     # Qualtrics data reception
 │   │   ├── memory_task.js               # Cognitive load manipulation
 │   │   └── README_javascript.md         # JavaScript documentation
+│   ├── qualitrics-survery-flow/          # Qualtrics survey flow documentation
+│   │   └── qualitrics_survey_flow.pdf   # Survey flow diagram
 │   └── website_prototypes/               # Four experimental website prototypes
 │       ├── starbucks_consistent/          # Group 1: Familiar + Consistent
 │       ├── starbucks_mismatched/         # Group 2: Familiar + Mismatched
@@ -101,6 +103,10 @@ The dataset (`01_data/qualitrics-data-594.csv`) contains:
 **JavaScript Code:**
 - Standalone JavaScript files for data collection and Qualtrics integration
 - See `02_experimental_materials/javascript_code/README_javascript.md` for integration instructions
+
+**Qualtrics Survey Flow:**
+- Survey flow diagram showing the structure and sequence of the Qualtrics survey
+- See `02_experimental_materials/qualitrics-survery-flow/qualitrics_survey_flow.pdf`
 
 ### 3. Analysis Code
 
