@@ -2,7 +2,7 @@
 
 **Repository:** `cookie-banner-research-dataset`  
 **Study:** The Role of Familiarity and Cookie Banner Interface in Privacy Consent Decisions  
-**Authors:** Anonymized
+**Authors:** Anonymized  
 **Date:** 2026
 
 ---
