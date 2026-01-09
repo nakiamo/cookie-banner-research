@@ -1,6 +1,6 @@
-# Familiarity and Privacy Research Dataset
+# Cookie Banner Research
 
-**Repository:** `familiarity-research-dataset`  
+**Repository:** `cookie-banner-research-dataset`  
 **Study:** The Role of Familiarity and Cookie Banner Interface in Privacy Consent Decisions  
 **Authors:** Anonymized
 **Date:** 2026
@@ -55,7 +55,7 @@ Final Dataset: We retained 594 valid cases (560 for TimeSec analyses). We provid
 ## Repository Structure
 
 ```
-familiarity-research-dataset/
+cookie-banner-research-dataset/
 ├── 01_data/
 │   └── qualitrics-data-594.csv          # Final dataset (N = 594)
 ├── 02_experimental_materials/
