@@ -55,7 +55,7 @@ Final Dataset: We retained 594 valid cases (560 for TimeSec analyses). We provid
 ## Repository Structure
 
 ```
-cookie-banner-research-dataset/
+cookie-banner-research/
 ├── 01_data/
 │   └── qualitrics-data-594.csv          # Final dataset (N = 594)
 ├── 02_experimental_materials/
