@@ -40,7 +40,7 @@ Survey Platform: Qualtrics (online survey software)
 Website Prototypes: Custom HTML/CSS/JavaScript (4 prototypes hosted on GitHub Pages)
 Data Collection: JavaScript (postMessage API, URL parameters, localStorage)
 Data Cleaning: R (version 4.4.1), RStudio
-Statistical Analysis: R packages including nnet (multinomial logistic regression), base R (descriptive statistics), emmeans (predicted probabilities), and car (VIF diagnostics)
+Statistical Analysis: R packages including nnet (multinomial logistic regression), base R (descriptive statistics), and emmeans (predicted probabilities)
 
 Workflow:
 
