@@ -37,7 +37,7 @@ Survey Measures: We administered the Privacy Concern scale (4 items, 1-5), Priva
 Instruments and Software:
 
 Survey Platform: Qualtrics (online survey software)
-Website Prototypes: Custom HTML/CSS/JavaScript (4 prototypes hosted on GitHub Pages)
+Website Prototypes: Custom HTML/CSS/JavaScript (4 prototypes; working versions linked below)
 Data Collection: JavaScript (postMessage API, URL parameters, localStorage)
 Data Cleaning: R (version 4.4.1), RStudio
 Statistical Analysis: R packages including nnet (multinomial logistic regression), base R (descriptive statistics), and emmeans (predicted probabilities)
@@ -96,8 +96,15 @@ The dataset (`01_data/qualitrics-data-594.csv`) contains:
 ### 2. Experimental Materials
 
 **Website Prototypes:**
-- Four HTML prototypes representing the 2×2 experimental design
-- Each prototype folder contains `index.html` and associated assets (images)
+
+Source files are in `02_experimental_materials/website_prototypes/`. Each folder contains `index.html` and its images. The working versions of the four conditions are:
+
+| Condition | Source folder | Working site |
+| --- | --- | --- |
+| Familiar website (Starbucks), consistent banner | `starbucks_consistent/` | https://nakiamo.github.io/experiment-1/ |
+| Familiar website (Starbucks), mismatched banner | `starbucks_mismatched/` | https://nakiamo.github.io/experiment-2/ |
+| Unfamiliar website (Coffee Bean House), consistent banner | `coffeebean_consistent/` | https://nakiamo.github.io/experiment-3/ |
+| Unfamiliar website (Coffee Bean House), mismatched banner | `coffeebean_mismatched/` | https://nakiamo.github.io/experiment-4/ |
 
 
 **JavaScript Code:**
